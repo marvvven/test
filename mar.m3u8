@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" , TLC
+#EXTINF:-1 tvg-id="ca.TLC Canada" tvg-logo="https://iptvx.one/picons/tlc.png" , TLC
 http://5.troya.info:34000/ch435/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
 
