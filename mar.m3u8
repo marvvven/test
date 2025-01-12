@@ -1,19 +1,25 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/TLC.ar.png", TLC
+http://5.troya.info:34000/ch435/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/InvestigationDiscovery.ar.png", Investigation Discovery
 http://5.troya.info:34000/ch434/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/DiscoveryChannel.ar.png", Discovery Channel
-http://5.troya.info:34000/ch122/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bcu-svaty-4k.png", Сваты
 http://5.troya.info:34000/ch145/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ar/TLC.ar.png", TLC
-http://5.troya.info:34000/ch109/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/NationalGeographic.ru.png", National Geographic
+http://5.troya.info:34000/ch125/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/DiscoveryChannel.ar.png", Discovery Channel
+http://5.troya.info:34000/ch123/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png", Animal Planet
+http://5.troya.info:34000/ch124/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/FOX.ru.png", Fox HD
 http://5.troya.info:34000/ch103/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/FoxLife.ru.png", Fox Life
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/FoxLife.ru.png", Fox Life HD
 http://5.troya.info:34000/ch104/mono.m3u8?token=rl_s9s9s9.eJJtxrnipf2HhqI2ZYKwI52M2cUQtvKuyB1If5er8TbQfQQBp4rmn9hdcNqj8avG
